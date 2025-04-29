@@ -1,4 +1,4 @@
-# Big-Data-
+# Big-Data
 
 In this project, we designed and implemented a Real-Time Fake News Detection System that combines the power of big data processing using PySpark with machine learning techniques to effectively identify and classify fake news articles. The goal was to build a scalable, accurate, and real-time system capable of detecting misinformation as it is published online.
 
